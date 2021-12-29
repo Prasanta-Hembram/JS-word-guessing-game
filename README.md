@@ -1,2 +1,2 @@
 # JS-word-guessing-game
-A simple gamme made with Javascript.
+A simple game made with Javascript.
